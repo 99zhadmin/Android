@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.homework7db.MainActivity" >
+
+    <item
+        android:id="@+id/a"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/a"/>
+    <item
+        android:id="@+id/b"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/b"/>
+    <item
+        android:id="@+id/c"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/c"/>
+    <item
+        android:id="@+id/d"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/d"/>
+    <item
+        android:id="@+id/e"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/e"/>
+
+</menu>
